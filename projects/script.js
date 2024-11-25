@@ -49,7 +49,7 @@ function showProjects(projects) {
         <div class="box tilt" style="width: 380px; margin: 1rem">
     
 
-       <img draggable="false" src="assets/images/projects/${project.image}.png" alt={project.name} "/>
+       <img draggable="false" src="/assets/images/projects/${project.image}.png" alt={project.name} "/>
      
       <div class="content">
         <div class="tag">
