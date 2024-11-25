@@ -1,0 +1,62 @@
+[
+  {
+    "name": "QuickAttend",
+    "desc": " A face recognition-based smart attendance system for seamless and automated tracking in classrooms and organizations ",
+    "image": "quickatted2",
+    "category": "Artificial Intelligence",
+    "links": {
+      "view": "https://github.com/Wani-Chetan-999/QuickAttend.git",
+      "code": "https://github.com/Wani-Chetan-999/QuickAttend.git"
+    }
+  },
+  {
+    "name": "MetaMall",
+    "desc": "A futuristic e-commerce platform that integrates innovation and technology to deliver a seamless shopping experience across diverse categories ",
+    "image": "matamart",
+    "category": "data science",
+    "links": {
+      "view": "https://waste-managemnt-system.000webhostapp.com/",
+      "code": "https://github.com/imlakshay08/Email_SMS-Spam-Detection-System"
+    }
+  },
+  {
+    "name": "Health Care Chatbot",
+    "desc": "An intelligent virtual assistant powered by AI and machine learning to provide symptom analysis, health advice, and seamless interaction for healthcare-related inquiries.",
+    "image": "chatbot",
+    "category": "HealthTech ",
+    "links": {
+      "view": "https://github.com/Wani-Chetan-999/Healthcare_Chatbot.git",
+      "code": "https://github.com/Wani-Chetan-999/Healthcare_Chatbot.git"
+    }
+  },
+  {
+    "name": "Personal Portfolio",
+    "desc": "A responsive personal portfolio website that highlights my skills, projects, and career milestones, offering a seamless experience for visitors to explore my professional profile. ",
+    "image": "portfolio",
+    "category": "Web Development",
+    "links": {
+      "view": "https://github.com/Wani-Chetan-999/Portfolio.git",
+      "code": "https://github.com/Wani-Chetan-999/Portfolio.git"
+    }
+  },
+  {
+    "name": "Deepfake Detection (In Progress)",
+    "desc": "AI-driven technology designed to identify manipulated media, ensuring authenticity and combating misinformation effectively",
+    "image": "deepfake",
+    "category": "Ethical AI",
+    "links": {
+      "view": "https://github.com/Wani-Chetan-999/DeepFake-Detection.git",
+      "code": "https://github.com/Wani-Chetan-999/DeepFake-Detection.git"
+    }
+  },
+  {
+      "name": "Wheather APP",
+      "desc": "A Weather App that provides real-time weather updates, forecasts, and alerts to keep you informed about current and upcoming conditions at your location. ",
+      "image": "wheather",
+      "category": "frontend",
+      "links": {
+        "view": "",
+        "code": ""
+      }
+  }
+]
