@@ -204,23 +204,21 @@ header .navbar ul li a:hover {
 }
 .home .content {
   flex: 1 1 40rem;
-  padding-top: 1rem;
+  padding-top: 0.5rem;
   z-index: 1;
 }
 .home .image {
   flex: 1 1 40rem;
-  z-index: 1;
+  
 }
 .home .image img {
-  width: 70%;
-  margin-left: 6rem;
-  border-radius: 50%;
-  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.3);
+  width: 90%;
+  margin-left: 5rem;
+  border-radius: 20%;
   cursor: pointer;
 }
-.home .image img:hover {
-  box-shadow: 0 5px 15px rgba(0, 0, 0, 0.5);
-}
+
+
 .home .content h2 {
   font-size: 5rem;
   font-weight: 800;
