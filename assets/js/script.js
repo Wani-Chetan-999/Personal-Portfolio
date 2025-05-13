@@ -37,21 +37,7 @@ $(document).ready(function () {
         }, 500, 'linear')
     });
 
-    // <!-- emailjs to mail contact form data -->
-    // $("#contact-form").submit(function (event) {
-    //     emailjs.init("ZyevtWLN1pRpeVtXG");
-
-    //     emailjs.sendForm('service_m9st78c','template_3qpp8qa', '#contact-form')
-    //         .then(function (response) {
-    //             console.log('SUCCESS!', response.status, response.text);
-    //             document.getElementById("contact-form").reset();
-    //             alert("Form Submitted Successfully");
-    //         }, function (error) {
-    //             console.log('FAILED...', error);
-    //             alert("Form Submission Failed! Try Again");
-    //         });
-    //     event.preventDefault();
-    // });
+   
     emailjs.init("ZyevtWLN1pRpeVtXG");
 
     $("#contact-form").submit(function (event) {
