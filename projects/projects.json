@@ -10,13 +10,13 @@
     }
   },
   {
-    "name": "MetaMall",
-    "desc": "A futuristic e-commerce platform that integrates innovation and technology to deliver a seamless shopping experience across diverse categories ",
-    "image": "matamart",
-    "category": "data science",
+    "name": "BrightSkillz",
+    "desc": "Empowering learners with modern, in-demand skills through an intuitive and engaging e-learning platform. ",
+    "image": "e-course",
+    "category": "E-Com",
     "links": {
-      "view": "https://waste-managemnt-system.000webhostapp.com/",
-      "code": "https://github.com/imlakshay08/Email_SMS-Spam-Detection-System"
+      "view": "https://brightskillz.42web.io/",
+      "code": "https://github.com/Wani-Chetan-999/BrightSkillz.git"
     }
   },
   {
@@ -35,7 +35,7 @@
     "image": "portfolio",
     "category": "Web Development",
     "links": {
-      "view": "https://github.com/Wani-Chetan-999/Portfolio.git",
+      "view": "https://chetandev999.netlify.app/",
       "code": "https://github.com/Wani-Chetan-999/Portfolio.git"
     }
   },
@@ -50,13 +50,13 @@
     }
   },
   {
-      "name": "Wheather APP",
-      "desc": "A Weather App that provides real-time weather updates, forecasts, and alerts to keep you informed about current and upcoming conditions at your location. ",
-      "image": "wheather",
-      "category": "frontend",
+      "name": "Eco-Guardian",
+      "desc": "A smart waste management system enabling users to report waste, while admins track, manage, and optimize cleanup efficiently. ",
+      "image": "wms",
+      "category": "Full Stack",
       "links": {
-        "view": "",
-        "code": ""
+        "view": "https://github.com/Wani-Chetan-999/WMS",
+        "code": "https://github.com/Wani-Chetan-999/WMS"
       }
   }
 ]
