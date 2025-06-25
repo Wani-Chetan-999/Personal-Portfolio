@@ -1,0 +1,7 @@
+version: "3.8"
+
+services:
+  web:
+    image: chetanwani999/portfolio-site
+    ports:
+      - "8082:80"
