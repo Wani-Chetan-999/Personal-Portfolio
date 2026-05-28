@@ -21,12 +21,12 @@
   },
   {
     "name": "Health Care Chatbot",
-    "desc": "An intelligent virtual assistant powered by AI and machine learning to provide symptom analysis, health advice, and seamless interaction for healthcare-related inquiries.",
+    "desc": "A stateful Multi-Agent AI Healthcare Copilot designed to streamline clinical workflows through intelligent multi-turn symptom analysis, automated medical document OCR parsing, and localized semantic knowledge retrieval.",
     "image": "chatbot",
     "category": "HealthTech ",
     "links": {
-      "view": "https://github.com/Wani-Chetan-999/Healthcare_Chatbot.git",
-      "code": "https://github.com/Wani-Chetan-999/Healthcare_Chatbot.git"
+      "view": "https://github.com/Wani-Chetan-999/multi-agent-healthcare-platform",
+      "code": "https://github.com/Wani-Chetan-999/multi-agent-healthcare-platform"
     }
   },
   {
