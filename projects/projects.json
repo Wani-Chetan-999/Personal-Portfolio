@@ -21,7 +21,7 @@
   },
   {
     "name": "Health Care Chatbot",
-    "desc": "A stateful Multi-Agent AI Healthcare Copilot designed to streamline clinical workflows through intelligent multi-turn symptom analysis, automated medical document OCR parsing, and localized semantic knowledge retrieval.",
+    "desc": "An asynchronous Multi-Agent AI Healthcare Copilot built with FastAPI and LangGraph for real-time triage, medical OCR, and longitudinal patient memory.",
     "image": "chatbot",
     "category": "HealthTech ",
     "links": {
